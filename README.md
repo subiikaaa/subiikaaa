@@ -30,9 +30,9 @@ Engineer • Flutter Learner • Cybersecurity Enthusiast
 
 ## 📊 GitHub Overview
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=subiikaaa&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
+<img 
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=subiikaaa&theme=tokyonight"
+/>
 
 ---
 
@@ -49,8 +49,6 @@ Engineer • Flutter Learner • Cybersecurity Enthusiast
 </a>
 
 </p>
-
----
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:0F2027,50:203A43,100:2C5364&section=footer"/>
