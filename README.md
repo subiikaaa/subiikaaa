@@ -14,8 +14,7 @@ Engineer • Flutter Learner • Cybersecurity Enthusiast
 
 - 📱 Learning **Flutter Development**
 - 🔐 Interested in **Cybersecurity**
-- 🐍 Working with **Python**
-- ⚙️ Exploring **C++**
+- 🐍 Exploring **Python**
 - 📄 Creating documents using **LaTeX**
 
 ---
